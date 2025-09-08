@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fpMuGLbohogVWaRxDt5n-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="20" y="580" width="540" height="540" as="geometry" />
-        </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-4" value="传感器采集系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -14,7 +11,7 @@
           <mxGeometry x="230" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-6" value="数字孪生仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
