@@ -11,10 +11,10 @@
           <mxGeometry x="30" y="610" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-5" value="数据存储与处理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-6" value="数字孪生仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-8" value="传感器采集系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="930" width="120" height="60" as="geometry" />
