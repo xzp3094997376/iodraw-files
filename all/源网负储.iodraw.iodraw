@@ -1,0 +1,85 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="dG2rHCunDS8pr7B9ckoH">
+    <mxGraphModel dx="1688" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fpMuGLbohogVWaRxDt5n-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="870" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;传感器采集系统&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; text-align: left; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(PV、负荷、储能)  &lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="620" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据存储与处理层&lt;/font&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;(时序数据库/中间件)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="385" y="620" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-9" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;数字孪生仿真平台&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;（渲染、可视化、交互）&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="620" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-10" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px; font-size: 20px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;新能源子系统&lt;/font&gt;&lt;/code&gt;(光伏、风机等)   &lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="75" y="920" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-11" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px; font-size: 20px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;能源交换与潮流计算  &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-14" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.522;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fpMuGLbohogVWaRxDt5n-9" target="fpMuGLbohogVWaRxDt5n-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="820" as="sourcePoint" />
+            <mxPoint x="770" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-15" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.522;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="484.5" y="710" as="sourcePoint" />
+            <mxPoint x="485.5" y="921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-16" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.522;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="179.5" y="710" as="sourcePoint" />
+            <mxPoint x="180.5" y="921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-17" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="300" y="664.58" as="sourcePoint" />
+            <mxPoint x="385" y="664.58" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="375" y="664.58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-18" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590" y="664.58" as="sourcePoint" />
+            <mxPoint x="680" y="664.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-19" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpMuGLbohogVWaRxDt5n-12" target="fpMuGLbohogVWaRxDt5n-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="850" as="sourcePoint" />
+            <mxPoint x="715" y="850" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-21" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fpMuGLbohogVWaRxDt5n-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="985" as="sourcePoint" />
+            <mxPoint x="620" y="985" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-12" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px; font-size: 20px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;预测与反馈模块  &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="920" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fpMuGLbohogVWaRxDt5n-22" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="355" y="974.58" as="sourcePoint" />
+            <mxPoint x="315" y="975" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
