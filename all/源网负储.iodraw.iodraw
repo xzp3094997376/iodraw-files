@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dG2rHCunDS8pr7B9ckoH">
-    <mxGraphModel dx="1980" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="660" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,77 +89,77 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="610" width="870" height="540" as="geometry" />
+          <mxGeometry x="1070" y="585" width="870" height="540" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;传感器采集系统&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; text-align: left; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(PV、负荷、储能)  &lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="630" width="210" height="90" as="geometry" />
+          <mxGeometry x="1085" y="605" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据存储与处理层&lt;/font&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;(时序数据库/中间件)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="395" y="630" width="200" height="90" as="geometry" />
+          <mxGeometry x="1395" y="605" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-32" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;数字孪生仿真平台&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;（渲染、可视化、交互）&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="700" y="630" width="200" height="90" as="geometry" />
+          <mxGeometry x="1700" y="605" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-33" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;code style=&quot;font-size: 20px; font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: transparent transparent; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: break-word; tab-size: 2; hyphens: none; max-width: 100%; overflow: auto;&quot; class=&quot;language-&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;新能源子系统&lt;/font&gt;&lt;/code&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(光伏、风机等)  &lt;/font&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="85" y="930" width="240" height="110" as="geometry" />
+          <mxGeometry x="1085" y="905" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-34" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;能源交换与潮流计算 &lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; &lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px; font-size: 10px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;(潮流计算引擎)&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="930" width="250" height="110" as="geometry" />
+          <mxGeometry x="1370" y="905" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-35" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.522;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fpMuGLbohogVWaRxDt5n-32" target="fpMuGLbohogVWaRxDt5n-42">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="720" y="830" as="sourcePoint" />
-            <mxPoint x="780" y="920" as="targetPoint" />
+            <mxPoint x="1720" y="805" as="sourcePoint" />
+            <mxPoint x="1780" y="895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-36" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.522;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="494.5" y="720" as="sourcePoint" />
-            <mxPoint x="495.5" y="931" as="targetPoint" />
+            <mxPoint x="1494.5" y="695" as="sourcePoint" />
+            <mxPoint x="1495.5" y="906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-37" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.522;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="189.5" y="720" as="sourcePoint" />
-            <mxPoint x="190.5" y="931" as="targetPoint" />
+            <mxPoint x="1189.5" y="695" as="sourcePoint" />
+            <mxPoint x="1190.5" y="906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-38" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="310" y="674.58" as="sourcePoint" />
-            <mxPoint x="395" y="674.58" as="targetPoint" />
+            <mxPoint x="1310" y="649.58" as="sourcePoint" />
+            <mxPoint x="1395" y="649.58" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="385" y="674.58" />
+              <mxPoint x="1385" y="649.58" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-39" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="600" y="674.58" as="sourcePoint" />
-            <mxPoint x="690" y="674.58" as="targetPoint" />
+            <mxPoint x="1600" y="649.58" as="sourcePoint" />
+            <mxPoint x="1690" y="649.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-40" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpMuGLbohogVWaRxDt5n-42" target="fpMuGLbohogVWaRxDt5n-34">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="640" y="860" as="sourcePoint" />
-            <mxPoint x="725" y="860" as="targetPoint" />
+            <mxPoint x="1640" y="835" as="sourcePoint" />
+            <mxPoint x="1725" y="835" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-41" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fpMuGLbohogVWaRxDt5n-42">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="680" y="995" as="sourcePoint" />
-            <mxPoint x="630" y="995" as="targetPoint" />
+            <mxPoint x="1680" y="970" as="sourcePoint" />
+            <mxPoint x="1630" y="970" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-42" value="&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;预测与反馈模块 &lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt; &lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; scrollbar-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0); margin: 0.5em 0px; padding: 1em; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; line-height: 1.5; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(56, 58, 66); direction: ltr; word-break: normal; tab-size: 2; hyphens: none; overflow: auto; border-radius: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(255, 255, 255); letter-spacing: 0.5px; font-size: 10px;&quot; class=&quot;language-&quot; data-v-e2d1d10f=&quot;&quot;&gt;(Kalman滤波器模块)&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="670" y="930" width="250" height="110" as="geometry" />
+          <mxGeometry x="1670" y="905" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fpMuGLbohogVWaRxDt5n-43" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="365" y="984.58" as="sourcePoint" />
-            <mxPoint x="325" y="985" as="targetPoint" />
+            <mxPoint x="1365" y="959.58" as="sourcePoint" />
+            <mxPoint x="1325" y="960" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
