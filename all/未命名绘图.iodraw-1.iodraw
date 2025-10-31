@@ -124,7 +124,7 @@
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--37" value="清水冲洗" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1311" y="421" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="0CMV-gyQ6OwhFmqcKfc--38" value="救护车" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--38" value="注射疫苗" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1311" y="501" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
