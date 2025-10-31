@@ -101,7 +101,7 @@
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--31" target="0CMV-gyQ6OwhFmqcKfc--36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0CMV-gyQ6OwhFmqcKfc--31" value="中暑症状" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--31" value="咬伤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1151" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--34" target="0CMV-gyQ6OwhFmqcKfc--37">
