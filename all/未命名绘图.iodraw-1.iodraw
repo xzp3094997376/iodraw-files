@@ -7,21 +7,21 @@
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--1" target="0CMV-gyQ6OwhFmqcKfc--2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="350" />
+              <mxPoint x="404" y="366" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0CMV-gyQ6OwhFmqcKfc--4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="294" y="366" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="400" y="351" />
-              <mxPoint x="510" y="351" />
+              <mxPoint x="294" y="367" />
+              <mxPoint x="404" y="367" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--1" value="中暑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="184" y="336" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--2" target="0CMV-gyQ6OwhFmqcKfc--8">
           <mxGeometry relative="1" as="geometry" />
@@ -30,30 +30,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--2" value="中暑症状" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="454" y="246" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--4" target="0CMV-gyQ6OwhFmqcKfc--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="480" as="targetPoint" />
+            <mxPoint x="614" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--4" value="施救措施" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="410" width="120" height="70" as="geometry" />
+          <mxGeometry x="454" y="426" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--8" value="轻症" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="614" y="196" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--10" value="重症" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="614" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--12" value="擦汗服用盐水" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="380" width="120" height="55" as="geometry" />
+          <mxGeometry x="614" y="396" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--18" value="救护车" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="614" y="476" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
