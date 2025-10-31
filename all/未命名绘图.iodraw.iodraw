@@ -4,14 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yK-fTsbbfDJlyLvhQBbf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yK-fTsbbfDJlyLvhQBbf-1" target="yK-fTsbbfDJlyLvhQBbf-6">
+        <mxCell id="yK-fTsbbfDJlyLvhQBbf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yK-fTsbbfDJlyLvhQBbf-9" target="yK-fTsbbfDJlyLvhQBbf-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yK-fTsbbfDJlyLvhQBbf-1" value="中暑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="348" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yK-fTsbbfDJlyLvhQBbf-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="348" width="120" height="60" as="geometry" />
+          <mxGeometry x="473" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yK-fTsbbfDJlyLvhQBbf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yK-fTsbbfDJlyLvhQBbf-1" target="yK-fTsbbfDJlyLvhQBbf-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="378" as="sourcePoint" />
+            <mxPoint x="533" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yK-fTsbbfDJlyLvhQBbf-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
