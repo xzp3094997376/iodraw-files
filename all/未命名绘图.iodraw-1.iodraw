@@ -67,8 +67,14 @@
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--20" value="流程提示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="1338" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--22" target="0CMV-gyQ6OwhFmqcKfc--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--22" value="动画播放" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="1478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--24" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1618" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
