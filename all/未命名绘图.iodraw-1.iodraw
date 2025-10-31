@@ -20,10 +20,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0CMV-gyQ6OwhFmqcKfc--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--1" value="中暑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0CMV-gyQ6OwhFmqcKfc--2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--2" value="中暑症状" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
