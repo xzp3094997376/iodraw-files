@@ -35,7 +35,7 @@
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--4" target="0CMV-gyQ6OwhFmqcKfc--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0CMV-gyQ6OwhFmqcKfc--4" value="世界措施" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--4" value="施救措施" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--8" value="轻症" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -45,7 +45,7 @@
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0CMV-gyQ6OwhFmqcKfc--12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="415" width="120" height="55" as="geometry" />
+          <mxGeometry x="720" y="380" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
