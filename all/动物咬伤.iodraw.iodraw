@@ -1,0 +1,133 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="4blHX9CKt2V-iC2kwMS1">
+    <mxGraphModel dx="1142" dy="638" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--1" target="0CMV-gyQ6OwhFmqcKfc--2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0CMV-gyQ6OwhFmqcKfc--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="366" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="294" y="367" />
+              <mxPoint x="404" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--1" value="中暑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--2" target="0CMV-gyQ6OwhFmqcKfc--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--2" target="0CMV-gyQ6OwhFmqcKfc--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--2" value="中暑症状" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--4" target="0CMV-gyQ6OwhFmqcKfc--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--4" value="施救措施" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="426" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--8" value="轻症" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="614" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--10" value="重症" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="614" y="296" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--12" value="擦汗服用盐水" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="614" y="396" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--18" value="救护车" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="614" y="476" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--19" target="0CMV-gyQ6OwhFmqcKfc--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--19" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--20" target="0CMV-gyQ6OwhFmqcKfc--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--20" value="流程提示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--22" target="0CMV-gyQ6OwhFmqcKfc--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--22" value="动画播放" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--24" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1618" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--28" target="0CMV-gyQ6OwhFmqcKfc--31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1101" y="391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="0CMV-gyQ6OwhFmqcKfc--34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="991" y="391" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="991" y="392" />
+              <mxPoint x="1101" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--28" value="咬伤类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="881" y="361" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--31" target="0CMV-gyQ6OwhFmqcKfc--35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--31" target="0CMV-gyQ6OwhFmqcKfc--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--31" value="蛇咬伤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="271" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--34" target="0CMV-gyQ6OwhFmqcKfc--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0CMV-gyQ6OwhFmqcKfc--34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1311" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--34" value="狗咬伤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="451" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--35" value="冲洗" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="221" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--36" value="急救" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--37" value="清水冲洗" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="421" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMV-gyQ6OwhFmqcKfc--38" value="注射疫苗" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="501" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
