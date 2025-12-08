@@ -217,6 +217,42 @@
         <mxCell id="CWxCYESCtjU0UgKQmjBb-16" value="关机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWxCYESCtjU0UgKQmjBb-22" target="CWxCYESCtjU0UgKQmjBb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWxCYESCtjU0UgKQmjBb-22" target="CWxCYESCtjU0UgKQmjBb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CWxCYESCtjU0UgKQmjBb-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1996" y="-15" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1996" y="-14" />
+              <mxPoint x="2096" y="-14" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CWxCYESCtjU0UgKQmjBb-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2036" y="-16" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2036" y="-15" />
+              <mxPoint x="2096" y="-15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-22" value="控制软件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="-45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-23" value="VR环境检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2126" y="-45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-24" value="启动VR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2126" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-25" value="关机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2126" y="-125" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
