@@ -283,7 +283,7 @@
         <mxCell id="CWxCYESCtjU0UgKQmjBb-37" value="启动VR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-465" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-38" value="关机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-38" value="拉开触电者&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
