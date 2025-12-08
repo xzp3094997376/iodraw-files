@@ -172,7 +172,7 @@
         <mxCell id="1w62RPqis3kwl2EAm4IX-2" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-2" value="VR环境检测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
