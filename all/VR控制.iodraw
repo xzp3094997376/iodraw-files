@@ -314,13 +314,16 @@
           <mxGeometry x="2000" y="-562.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWxCYESCtjU0UgKQmjBb-44" value="断开电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2361" y="-562.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2180" y="-562.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWxCYESCtjU0UgKQmjBb-45" value="拨离导线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2176" y="-467.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CWxCYESCtjU0UgKQmjBb-46" value="拉开触电者&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2176" y="-642.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="-592" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
