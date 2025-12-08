@@ -277,7 +277,7 @@
         <mxCell id="CWxCYESCtjU0UgKQmjBb-35" value="触电急救" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1534" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-36" value="VR环境检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-36" value="断开电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWxCYESCtjU0UgKQmjBb-37" value="启动VR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
