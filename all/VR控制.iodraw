@@ -280,11 +280,47 @@
         <mxCell id="CWxCYESCtjU0UgKQmjBb-36" value="断开电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-37" value="启动VR" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-37" value="拨离导线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-465" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CWxCYESCtjU0UgKQmjBb-38" value="拉开触电者&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1710" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWxCYESCtjU0UgKQmjBb-43" target="CWxCYESCtjU0UgKQmjBb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWxCYESCtjU0UgKQmjBb-43" target="CWxCYESCtjU0UgKQmjBb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CWxCYESCtjU0UgKQmjBb-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2046" y="-532.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2046" y="-531.5" />
+              <mxPoint x="2146" y="-531.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CWxCYESCtjU0UgKQmjBb-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2086" y="-533.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2086" y="-532.5" />
+              <mxPoint x="2146" y="-532.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-43" value="触电急救" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="-562.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-44" value="断开电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2176" y="-562.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-45" value="拨离导线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2176" y="-467.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-46" value="拉开触电者&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2176" y="-642.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
