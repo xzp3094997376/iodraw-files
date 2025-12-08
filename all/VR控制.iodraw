@@ -313,7 +313,7 @@
         <mxCell id="CWxCYESCtjU0UgKQmjBb-43" value="接地电阻测量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1948" y="-562.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-44" value="断开电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-44" value="接地电阻测量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-562.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CWxCYESCtjU0UgKQmjBb-45" value="拨离导线" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
