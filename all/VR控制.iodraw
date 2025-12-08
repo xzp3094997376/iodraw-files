@@ -247,14 +247,8 @@
         <mxCell id="CWxCYESCtjU0UgKQmjBb-27" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="-65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWxCYESCtjU0UgKQmjBb-29" target="CWxCYESCtjU0UgKQmjBb-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-29" value="启动VR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="CWxCYESCtjU0UgKQmjBb-29" value="启动3d 应用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="95" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CWxCYESCtjU0UgKQmjBb-30" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
