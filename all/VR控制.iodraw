@@ -367,6 +367,42 @@
         <mxCell id="HeJK2toufn-sS1JWfYfg-17" value="黑龙江" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="866" y="-790" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeJK2toufn-sS1JWfYfg-22" target="HeJK2toufn-sS1JWfYfg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeJK2toufn-sS1JWfYfg-22" target="HeJK2toufn-sS1JWfYfg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HeJK2toufn-sS1JWfYfg-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746" y="-525" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="746" y="-524" />
+              <mxPoint x="846" y="-524" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HeJK2toufn-sS1JWfYfg-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="786" y="-526" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="786" y="-525" />
+              <mxPoint x="846" y="-525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-22" value="铁塔组立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-23" value="施工材料准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="-555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-24" value="施工作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="876" y="-460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HeJK2toufn-sS1JWfYfg-25" value="开工前准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="876" y="-635" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
