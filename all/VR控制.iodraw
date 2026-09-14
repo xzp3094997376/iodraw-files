@@ -409,8 +409,14 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-1" value="启动系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-893" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-2" target="l96EPFfG4KR7s215zwLj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-2" value="VR 设备初始化+场景加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-4" value="VR 设备初始化+场景加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
