@@ -553,6 +553,9 @@
             <mxPoint x="3627" y="-16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-94" value="同步到学员端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3310" y="-53" width="90" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
