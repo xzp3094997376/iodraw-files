@@ -415,90 +415,87 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-2" value="VR 设备初始化+场景加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-4" target="l96EPFfG4KR7s215zwLj-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-4" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2593.4482758620693" y="-183.8965517241379" as="targetPoint" />
+            <mxPoint x="2594.4482758620693" y="-39.39655172413791" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2860" y="-185" as="targetPoint" />
+            <mxPoint x="2861" y="-40.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6" target="l96EPFfG4KR7s215zwLj-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3069" y="-189" as="targetPoint" />
+            <mxPoint x="3070" y="-44.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-6" value="选择模式&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2768" y="-417.5" width="184" height="97.5" as="geometry" />
+          <mxGeometry x="2769" y="-273" width="184" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-9" target="l96EPFfG4KR7s215zwLj-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-9" value="警示模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2532" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="2533" y="-40.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-10" value="观看事故回放+原因分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2532" y="-45" width="120" height="60" as="geometry" />
+          <mxGeometry x="2533" y="99.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2860" y="-125" as="sourcePoint" />
+            <mxPoint x="2861" y="19.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2859.5" y="283" as="targetPoint" />
-            <mxPoint x="2859.511494252874" y="15" as="sourcePoint" />
+            <mxPoint x="2860.5" y="427.5" as="targetPoint" />
+            <mxPoint x="2860.511494252874" y="159.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2859" y="149" />
-              <mxPoint x="2860" y="149" />
-              <mxPoint x="2860" y="283" />
+              <mxPoint x="2860" y="293.5" />
+              <mxPoint x="2861" y="293.5" />
+              <mxPoint x="2861" y="427.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-14" value="根据任务提示操作虚拟设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="-45" width="120" height="60" as="geometry" />
+          <mxGeometry x="2801" y="99.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-17" value="实训模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="2801" y="-40.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-18" target="l96EPFfG4KR7s215zwLj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-18" value="考核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3051" y="-185" width="120" height="60" as="geometry" />
+          <mxGeometry x="3052" y="-40.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-19" value="根据任务无提示操作，记录违章点和考核成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3051" y="-45" width="120" height="60" as="geometry" />
+          <mxGeometry x="3052" y="99.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2859" y="134" as="sourcePoint" />
-            <mxPoint x="2595" y="18" as="targetPoint" />
+            <mxPoint x="2860" y="278.5" as="sourcePoint" />
+            <mxPoint x="2596" y="162.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2592" y="134" />
+              <mxPoint x="2593" y="278.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2860" y="134" as="sourcePoint" />
-            <mxPoint x="3112" y="16" as="targetPoint" />
+            <mxPoint x="2861" y="278.5" as="sourcePoint" />
+            <mxPoint x="3113" y="160.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3113" y="133" />
+              <mxPoint x="3114" y="277.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-31" value="任务结束/返回主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2798" y="283" width="120" height="60" as="geometry" />
+          <mxGeometry x="2799" y="427.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-60" target="l96EPFfG4KR7s215zwLj-62" parent="1">
           <mxGeometry relative="1" as="geometry" />
