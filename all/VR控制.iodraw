@@ -559,8 +559,8 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-95" value="服务端host" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2820.5" y="-762" width="77" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-96" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3670" y="-768" width="40" height="26" as="geometry" />
+        <mxCell id="l96EPFfG4KR7s215zwLj-96" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3663" y="-768" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
