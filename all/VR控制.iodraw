@@ -452,7 +452,6 @@
             <Array as="points">
               <mxPoint x="2593" y="161" />
               <mxPoint x="2860" y="161" />
-              <mxPoint x="2860" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -467,6 +466,11 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2860" y="283" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="149" />
+              <mxPoint x="2861" y="149" />
+              <mxPoint x="2861" y="283" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-14" value="根据任务提示操作虚拟设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
