@@ -421,8 +421,8 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-4" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2815" y="-412" width="80" height="80" as="geometry" />
+        <mxCell id="l96EPFfG4KR7s215zwLj-6" value="选择" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="-427" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
