@@ -509,14 +509,13 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-62" value="VR 设备初始化+场景加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3655" y="-611" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-64" target="l96EPFfG4KR7s215zwLj-68" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="l96EPFfG4KR7s215zwLj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-64" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3715" y="-414.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-64" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3655" y="-517" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-68" value="选择角色+模式+加入房间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3623" y="-414.5" width="184" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-83" value="创建房间，等待学员端加入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2799" y="-410" width="120" height="60" as="geometry" />
@@ -527,11 +526,14 @@
             <mxPoint x="2909" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-68">
+        <mxCell id="l96EPFfG4KR7s215zwLj-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2916" y="-376" as="sourcePoint" />
-            <mxPoint x="2966" y="-426" as="targetPoint" />
+            <mxPoint x="3623" y="-375.9875000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3528" y="-204" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
