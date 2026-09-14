@@ -441,8 +441,14 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-10" value="观看事故回放+原因分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2532" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-12" target="l96EPFfG4KR7s215zwLj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-12" value="实训模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-14" value="实训模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
