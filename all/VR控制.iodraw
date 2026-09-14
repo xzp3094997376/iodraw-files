@@ -501,7 +501,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-60" value="启动系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3655" y="-702" width="120" height="60" as="geometry" />
+          <mxGeometry x="3653" y="-715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-62" target="l96EPFfG4KR7s215zwLj-64" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -555,6 +555,9 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-94" value="同步到学员端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3325" y="-48" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-95" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2815" y="-768" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
