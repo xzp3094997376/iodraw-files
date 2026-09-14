@@ -431,7 +431,7 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3035.2941176470586" y="-178.88235294117658" as="targetPoint" />
+            <mxPoint x="3035" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-6" value="选择角色+模式+服务端主机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -456,7 +456,7 @@
           <mxGeometry x="2800" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2967" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="2977" y="-187" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
