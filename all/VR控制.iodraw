@@ -500,6 +500,103 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-31" value="任务结束/返回主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2798" y="283" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-37" target="l96EPFfG4KR7s215zwLj-39" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-37" value="启动系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="-695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-39" target="l96EPFfG4KR7s215zwLj-41" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-39" value="VR 设备初始化+场景加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="-604" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-41" target="l96EPFfG4KR7s215zwLj-45" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-41" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-45" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2603.4482758620693" y="-173.8965517241379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-45" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2870" y="-175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="l96EPFfG4KR7s215zwLj-45" target="l96EPFfG4KR7s215zwLj-54" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3079" y="-179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-45" value="选择角色+模式+加入房间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2778" y="-407.5" width="184" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-47" target="l96EPFfG4KR7s215zwLj-48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-47" value="警示模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2542" y="-175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-48" value="观看事故回放+原因分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2542" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="l96EPFfG4KR7s215zwLj-51" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2870" y="-115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2869.5" y="293" as="targetPoint" />
+            <mxPoint x="2869.511494252874" y="25" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2869" y="159" />
+              <mxPoint x="2870" y="159" />
+              <mxPoint x="2870" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-51" value="根据任务提示操作虚拟设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-52" value="实训模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="-175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-54" target="l96EPFfG4KR7s215zwLj-55" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-54" value="考核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3061" y="-175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-55" value="根据任务无提示操作，记录违章点和考核成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3061" y="-35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="l96EPFfG4KR7s215zwLj-48" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2869" y="144" as="sourcePoint" />
+            <mxPoint x="2605" y="28" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2602" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2870" y="144" as="sourcePoint" />
+            <mxPoint x="3122" y="26" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3123" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-58" value="任务结束/返回主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2808" y="293" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
