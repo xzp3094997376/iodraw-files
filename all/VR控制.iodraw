@@ -479,9 +479,9 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-19" value="根据任务无提示操作，记录违章点和考核成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3051" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2545" y="68" as="sourcePoint" />
+            <mxPoint x="2592" y="165" as="sourcePoint" />
             <mxPoint x="2595" y="18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
