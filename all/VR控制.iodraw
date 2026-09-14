@@ -433,7 +433,7 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3035" y="-200" as="targetPoint" />
+            <mxPoint x="3069" y="-189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-6" value="选择角色+模式+服务端主机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
