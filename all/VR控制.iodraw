@@ -426,6 +426,9 @@
             <mxPoint x="2593.4482758620693" y="-183.8965517241379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6" target="l96EPFfG4KR7s215zwLj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-6" value="选择角色+模式+服务端主机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2768" y="-417.5" width="184" height="97.5" as="geometry" />
         </mxCell>
@@ -437,6 +440,9 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-10" value="观看事故回放+原因分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2532" y="-45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="-185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
