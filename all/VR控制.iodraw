@@ -539,12 +539,13 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-89" value="连接服务器主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3201" y="-400" width="102" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3717.38" y="483" as="targetPoint" />
             <mxPoint x="3717.38" y="-4.999999999999545" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="3717.38" y="362" />
+              <mxPoint x="3717" y="362" />
+              <mxPoint x="2921" y="362" />
             </Array>
           </mxGeometry>
         </mxCell>
