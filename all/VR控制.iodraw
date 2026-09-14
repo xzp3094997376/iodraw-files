@@ -531,9 +531,12 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3644" y="-368" as="sourcePoint" />
-            <mxPoint x="2940" y="-364" as="targetPoint" />
+            <mxPoint x="3638" y="-376" as="sourcePoint" />
+            <mxPoint x="2934" y="-372" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-89" value="连接服务器主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3201" y="-400" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
