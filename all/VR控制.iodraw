@@ -454,11 +454,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2860.5" y="427.5" as="targetPoint" />
             <mxPoint x="2860.511494252874" y="159.5" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="2860" y="293.5" />
-              <mxPoint x="2861" y="293.5" />
-              <mxPoint x="2861" y="427.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-14" value="根据任务提示操作虚拟设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
