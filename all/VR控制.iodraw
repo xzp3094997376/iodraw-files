@@ -518,37 +518,13 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-64" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3655" y="-517" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-68" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="l96EPFfG4KR7s215zwLj-68" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3448.4482758620693" y="-180.8965517241379" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-68" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3715" y="-182" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="l96EPFfG4KR7s215zwLj-68" target="l96EPFfG4KR7s215zwLj-77" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3924" y="-186" as="targetPoint" />
+            <mxPoint x="3965.999999999999" y="-182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-68" value="选择角色+模式+加入房间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3623" y="-414.5" width="184" height="97.5" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-70" target="l96EPFfG4KR7s215zwLj-71" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-70" value="警示模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3387" y="-182" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-71" value="观看事故回放+原因分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3387" y="-42" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="l96EPFfG4KR7s215zwLj-74" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3715" y="-122" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -561,25 +537,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-74" value="根据任务提示操作虚拟设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3655" y="-42" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-75" value="实训模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3655" y="-182" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="l96EPFfG4KR7s215zwLj-77" target="l96EPFfG4KR7s215zwLj-78" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-77" value="考核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3906" y="-182" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-78" value="根据任务无提示操作，记录违章点和考核成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3906" y="-42" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" target="l96EPFfG4KR7s215zwLj-71" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3714" y="137" as="sourcePoint" />
-            <mxPoint x="3450" y="21" as="targetPoint" />
+            <mxPoint x="3447" y="18" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3447" y="137" />
             </Array>
