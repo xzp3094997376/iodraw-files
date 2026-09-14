@@ -422,7 +422,7 @@
           <mxGeometry x="2800" y="-579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-6" value="选择角色+模式+服务端主机" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="-427" width="80" height="80" as="geometry" />
+          <mxGeometry x="2768" y="-417.5" width="184" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
