@@ -545,12 +545,12 @@
           <mxGeometry x="3201" y="-400" width="102" height="26" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-91" value="选择角色+模式+加入房间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3658" y="-77" width="120" height="56" as="geometry" />
+          <mxGeometry x="3658" y="-58" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-93" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3248" y="-16" as="sourcePoint" />
-            <mxPoint x="3298" y="-66" as="targetPoint" />
+            <mxPoint x="3627" y="-16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
