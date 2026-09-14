@@ -465,7 +465,7 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-18" value="考核模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3051" y="-185" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-19" value="根据任务无提示操作，记录违章点和考核成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3051" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
