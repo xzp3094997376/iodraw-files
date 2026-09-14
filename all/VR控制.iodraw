@@ -445,12 +445,26 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-9" value="警示模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2532" y="-185" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2832.9411764705883" y="284.6470588235293" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2592" y="161" />
+              <mxPoint x="2833" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-10" value="观看事故回放+原因分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2532" y="-45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2860" y="-125" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2845.8823529411766" y="284.6470588235293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-14" value="根据任务提示操作虚拟设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
