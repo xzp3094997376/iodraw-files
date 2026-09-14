@@ -416,7 +416,7 @@
           <mxGeometry x="2800" y="-614" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-4" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="-520" width="120" height="60" as="geometry" />
+          <mxGeometry x="2801" y="-519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-6">
           <mxGeometry relative="1" as="geometry">
@@ -529,6 +529,9 @@
             <mxPoint x="2909" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-86" target="l96EPFfG4KR7s215zwLj-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-86" value="选择角色+模式+加入房间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3658" y="-404" width="120" height="60" as="geometry" />
         </mxCell>
@@ -540,6 +543,9 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-89" value="连接服务器主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3201" y="-400" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-91" value="选择角色+模式+加入房间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3658" y="-264" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
