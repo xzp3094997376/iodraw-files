@@ -553,7 +553,7 @@
             <mxPoint x="3627" y="-16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l96EPFfG4KR7s215zwLj-94" value="同步到学员端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="l96EPFfG4KR7s215zwLj-94" value="同步到客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3325" y="-48" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-95" value="服务电话" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
