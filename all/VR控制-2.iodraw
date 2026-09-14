@@ -515,9 +515,9 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="l96EPFfG4KR7s215zwLj-83" target="l96EPFfG4KR7s215zwLj-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UTWd9HPI9Ed0Av4h8oyJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-83">
+        <mxCell id="UTWd9HPI9Ed0Av4h8oyJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2645" y="-369" as="targetPoint" />
+            <mxPoint x="2617" y="-379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-83" value="创建房间，等待学员端加入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -571,6 +571,9 @@
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-96" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3680" y="-758" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UTWd9HPI9Ed0Av4h8oyJ-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="-419" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
