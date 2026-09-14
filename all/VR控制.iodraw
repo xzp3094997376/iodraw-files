@@ -517,8 +517,11 @@
         <mxCell id="l96EPFfG4KR7s215zwLj-64" value="主界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3655" y="-517" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l96EPFfG4KR7s215zwLj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l96EPFfG4KR7s215zwLj-83" target="l96EPFfG4KR7s215zwLj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-83" value="创建房间，等待学员端加入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2799" y="-410" width="120" height="60" as="geometry" />
+          <mxGeometry x="2800" y="-409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l96EPFfG4KR7s215zwLj-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="l96EPFfG4KR7s215zwLj-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
