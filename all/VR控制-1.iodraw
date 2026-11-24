@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36 Edg/158.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dG2rHCunDS8pr7B9ckoH">
-    <mxGraphModel dx="2234" dy="2027" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3407" dy="2704" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,7 +620,7 @@
             <mxPoint x="729" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="G7JS8GV7PdQwzm3asnrP-7">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="G7JS8GV7PdQwzm3asnrP-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-488" y="194" as="sourcePoint" />
             <Array as="points">
@@ -629,7 +629,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="G7JS8GV7PdQwzm3asnrP-8">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="G7JS8GV7PdQwzm3asnrP-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-448" y="193" as="sourcePoint" />
             <Array as="points">
@@ -638,22 +638,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-5" value="VR集控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-5" value="VR集控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-534" y="164" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-7" value="app增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-7" value="app增删改查" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-358" y="259" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-8" value="发送指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-8" value="发送指令" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-358" y="84" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G7JS8GV7PdQwzm3asnrP-10" target="G7JS8GV7PdQwzm3asnrP-12">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G7JS8GV7PdQwzm3asnrP-10" target="G7JS8GV7PdQwzm3asnrP-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-10" value="发送指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-10" value="发送指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-766" y="95" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-12" value="启动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-12" value="启动" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-766" y="255" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
