@@ -599,7 +599,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-6" value="输电专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-6" value="VR集控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="78" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-7" value="施工材料准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
