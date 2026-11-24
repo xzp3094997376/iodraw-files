@@ -581,16 +581,6 @@
         <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1Ih8EdtJBjj2hx1I8Jo1-6" target="1Ih8EdtJBjj2hx1I8Jo1-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="201" y="108" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="201" y="109" />
-              <mxPoint x="301" y="109" />
-            </Array>
-            <mxPoint x="331" y="198.0588235294117" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1Ih8EdtJBjj2hx1I8Jo1-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="241" y="107" as="sourcePoint" />
