@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36 Edg/158.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dG2rHCunDS8pr7B9ckoH">
-    <mxGraphModel dx="3668" dy="2854" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2166" dy="1988" grid="0" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -655,6 +655,42 @@
         </mxCell>
         <mxCell id="G7JS8GV7PdQwzm3asnrP-12" value="启动" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-766" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dyrnl_93-AYVh03_zB1g-5" target="Dyrnl_93-AYVh03_zB1g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dyrnl_93-AYVh03_zB1g-5" target="Dyrnl_93-AYVh03_zB1g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Dyrnl_93-AYVh03_zB1g-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-148" y="-671" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-148" y="-670" />
+              <mxPoint x="-48" y="-670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Dyrnl_93-AYVh03_zB1g-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-108" y="-672" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-108" y="-671" />
+              <mxPoint x="-48" y="-671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-5" value="输电专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-194" y="-701" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-6" value="施工材料准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="-701" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-7" value="施工作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="-606" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-8" value="开工前准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="-781" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
