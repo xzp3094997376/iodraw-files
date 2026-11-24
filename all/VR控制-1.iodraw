@@ -692,6 +692,47 @@
         <mxCell id="Dyrnl_93-AYVh03_zB1g-8" value="开工前准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-208" y="-843" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dyrnl_93-AYVh03_zB1g-14" target="Dyrnl_93-AYVh03_zB1g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dyrnl_93-AYVh03_zB1g-14" target="Dyrnl_93-AYVh03_zB1g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Dyrnl_93-AYVh03_zB1g-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="-229" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-320" y="-228" />
+              <mxPoint x="-220" y="-228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dyrnl_93-AYVh03_zB1g-12">
+          <mxGeometry x="-0.9505" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Dyrnl_93-AYVh03_zB1g-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="-230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-280" y="-229" />
+              <mxPoint x="-220" y="-229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-14" value="输电更换间隔棒专业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-366" y="-259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-15" value="施工材料准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-16" value="施工作业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-164" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyrnl_93-AYVh03_zB1g-17" value="开工前准备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-339" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
