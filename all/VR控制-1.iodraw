@@ -611,7 +611,7 @@
         <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-9" value="启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="331" y="-2" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Ih8EdtJBjj2hx1I8Jo1-10" value="接收命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="-58" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
