@@ -653,7 +653,7 @@
         <mxCell id="G7JS8GV7PdQwzm3asnrP-7" value="app增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-358" y="259" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G7JS8GV7PdQwzm3asnrP-8" value="启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G7JS8GV7PdQwzm3asnrP-8" value="发送指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-358" y="84" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
